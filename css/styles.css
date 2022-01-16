@@ -133,13 +133,13 @@ hr {
 .top-cloud-img {
   position: absolute;
   top:40px;
-  right:400px;
+  right:20%;
 }
 
 .bottom-cloud-img {
   position: absolute;
   bottom: 300px;
-  left:350px;
+  left:20%;
 }
 
 .code-img {
