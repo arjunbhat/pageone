@@ -109,6 +109,12 @@ p {
   color: #EAF6F6;
 }
 
+.copyright-website-link {
+  color: #EAF6F6;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
 .attribution-link {
   color: #11999E;
   text-decoration: none;
